@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @suhpin95
+- I'm a full stack developer with experience in Javascript, ReactJS, Java, Django
 - 👀 I’m interested in Full stack web development, Front end development, MicroFrontends
 - 🌱 I’m currently learning MicroFrontends
 
