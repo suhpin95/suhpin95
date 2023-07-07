@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/node-js-red?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-rest-framework" />
-  <img src="https://img.shields.io/badge/spring-boot" />
   <img src="https://img.shields.io/badge/Jest-0071CC?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-io-blue" />
