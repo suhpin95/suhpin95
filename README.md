@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/django-rest-framework" />
   <img src="https://img.shields.io/badge/Jest-0071CC?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-io-blue" />
   <br/>
+  <img src="https://img.shields.io/badge/spring-io-blue" />
   <img src="https://img.shields.io/badge/postgres-SQL-red"/>
   <img src="https://img.shields.io/badge/mongo-db" />
 </div>
